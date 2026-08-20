@@ -219,6 +219,22 @@
       background: linear-gradient(90deg, var(--mint), var(--aqua));
     }
 
+    .bar span.dip-low {
+      background: linear-gradient(90deg, var(--ice), var(--aqua));
+    }
+
+    .bar span.dip-watch {
+      background: linear-gradient(90deg, var(--aqua), var(--ice));
+    }
+
+    .bar span.dip-good {
+      background: linear-gradient(90deg, var(--mint), var(--ice));
+    }
+
+    .bar span.dip-deep {
+      background: linear-gradient(90deg, var(--mint), #26d9b8);
+    }
+
     .drawdown {
       justify-self: end;
       min-width: 86px;
@@ -232,14 +248,24 @@
       color: #267b6b;
     }
 
-    .drawdown.medium {
-      background: rgba(255, 191, 160, 0.44);
-      color: #935334;
+    .drawdown.dip-low {
+      background: rgba(135, 246, 255, 0.46);
+      color: #236b72;
     }
 
-    .drawdown.deep {
-      background: rgba(97, 246, 255, 0.34);
-      color: #236b72;
+    .drawdown.dip-watch {
+      background: rgba(218, 245, 255, 0.82);
+      color: #356f80;
+    }
+
+    .drawdown.dip-good {
+      background: rgba(68, 255, 210, 0.26);
+      color: #267b6b;
+    }
+
+    .drawdown.dip-deep {
+      background: rgba(68, 255, 210, 0.52);
+      color: #176b5a;
     }
 
     .empty {
@@ -422,9 +448,10 @@
     }
 
     function drawdownClass(drawdown) {
-      if (drawdown >= 16) return "deep";
-      if (drawdown >= 8) return "medium";
-      return "";
+      if (drawdown >= 23) return "dip-deep";
+      if (drawdown >= 16) return "dip-good";
+      if (drawdown >= 9) return "dip-watch";
+      return "dip-low";
     }
 
     function rowTemplate(asset) {
@@ -442,7 +469,7 @@
                 <span>ATH <strong>${formatMoney(asset.ath, asset.currency)}</strong></span>
               </div>
               <div class="bar" aria-label="No current price available">
-                <span style="width: 0%"></span>
+                <span class="dip-low" style="width: 0%"></span>
               </div>
               <div class="number-line">
                 <span>Current price unavailable</span>
@@ -471,7 +498,7 @@
               <span>ATH <strong>${formatMoney(asset.ath, asset.currency)}</strong></span>
             </div>
             <div class="bar" aria-label="${percentageOfAth.toFixed(2)} percent of ATH">
-              <span style="width: ${percentageOfAth.toFixed(2)}%"></span>
+              <span class="${severity}" style="width: ${percentageOfAth.toFixed(2)}%"></span>
             </div>
             <div class="number-line">
               <span>${percentageOfAth.toFixed(2)}% of ATH</span>
