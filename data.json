@@ -1,4 +1,4 @@
-window.dashboardData = {
+{
   "updatedTimeLabel": "10:10 CEST",
   "updatedAtLabel": "21 Aug 2026 · last bot update",
   "assets": [
@@ -171,4 +171,4 @@ window.dashboardData = {
       "currency": "EUR"
     }
   ]
-};
+}

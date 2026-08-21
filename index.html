@@ -355,7 +355,6 @@
     <p class="empty" id="emptyState">No assets match this search.</p>
   </main>
 
-  <script src="data.js"></script>
   <script>
     const fallbackDashboardData = {
       updatedAtLabel: "20 Aug 2026 · sample data only",
@@ -420,8 +419,8 @@
       ]
     };
 
-    const dashboardData = window.dashboardData || fallbackDashboardData;
-    const sampleAssets = dashboardData.assets || [];
+    let dashboardData = fallbackDashboardData;
+    let sampleAssets = dashboardData.assets || [];
 
     const assetList = document.querySelector("#assetList");
     const emptyState = document.querySelector("#emptyState");
@@ -548,9 +547,29 @@
       emptyState.style.display = assets.length ? "none" : "block";
     }
 
+    async function loadDashboardData() {
+      try {
+        const response = await fetch(`data.json?v=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error(`Dashboard data request failed with ${response.status}`);
+        }
+        dashboardData = await response.json();
+        sampleAssets = dashboardData.assets || [];
+      } catch (error) {
+        console.warn("Using fallback dashboard data:", error);
+      }
+      render();
+    }
+
     searchInput.addEventListener("input", render);
     sortSelect.addEventListener("change", render);
-    render();
+    document.addEventListener("visibilitychange", () => {
+      if (!document.hidden) {
+        loadDashboardData();
+      }
+    });
+    window.addEventListener("focus", loadDashboardData);
+    loadDashboardData();
   </script>
 </body>
 </html>
