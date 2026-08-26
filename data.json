@@ -1,5 +1,5 @@
 {
-  "updatedTimeLabel": "13:42 CEST",
+  "updatedTimeLabel": "16:02 CEST",
   "updatedAtLabel": "26 Aug 2026 · last bot update",
   "assets": [
     {
@@ -14,7 +14,7 @@
       "symbol": "EUNK.DE",
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
-      "price": 106.83999633789062,
+      "price": 107.04000091552734,
       "ath": 107.58000183105469,
       "currency": "EUR"
     },
@@ -22,7 +22,7 @@
       "symbol": "IS3N.DE",
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
-      "price": 47.45000076293945,
+      "price": 47.505001068115234,
       "ath": 51.00600051879883,
       "currency": "EUR"
     },
@@ -30,7 +30,7 @@
       "symbol": "IUSN.DE",
       "key": "IE00BF4RFH31",
       "name": "iShares MSCI World Small Cap UCITS ETF Acc",
-      "price": 9.178000450134277,
+      "price": 9.199000358581543,
       "ath": 9.362000465393066,
       "currency": "EUR"
     },
@@ -38,7 +38,7 @@
       "symbol": "DBXJ.DE",
       "key": "IE00B53QDK08",
       "name": "Xtrackers MSCI Japan UCITS ETF",
-      "price": 103.2699966430664,
+      "price": 102.99500274658203,
       "ath": 107.52999877929688,
       "currency": "EUR"
     },
@@ -46,7 +46,7 @@
       "symbol": "C001.DE",
       "key": "LU2611732046",
       "name": "Amundi DAX UCITS ETF",
-      "price": 195.9199981689453,
+      "price": 196.83999633789062,
       "ath": 197.60000610351562,
       "currency": "EUR"
     },
@@ -54,7 +54,7 @@
       "symbol": "FGQI.L",
       "key": "IE00BYXVGZ48",
       "name": "Fidelity Global Quality Income UCITS ETF INC-USD",
-      "price": 11.875,
+      "price": 11.864999771118164,
       "ath": 12.045000076293945,
       "currency": "USD"
     },
@@ -62,7 +62,7 @@
       "symbol": "H410.DE",
       "key": "IE00B5SSQT16",
       "name": "HSBC MSCI Emerging Markets UCITS ETF USD",
-      "price": 14.729999542236328,
+      "price": 14.751999855041504,
       "ath": 16.00749969482422,
       "currency": "EUR"
     },
@@ -70,7 +70,7 @@
       "symbol": "EHDL.DE",
       "key": "IE00BYYXBF44",
       "name": "Invesco FTSE EM High Dividend Low Volatility UCITS ETF",
-      "price": 25.700000762939453,
+      "price": 25.780000686645508,
       "ath": 29.274999618530273,
       "currency": "EUR"
     },
@@ -78,7 +78,7 @@
       "symbol": "EXXW.DE",
       "key": "DE000A0H0744",
       "name": "iShares Dow Jones Asia Pacific Select Dividend 50 UCITS ETF (DE)",
-      "price": 32.810001373291016,
+      "price": 32.81999969482422,
       "ath": 34.70000076293945,
       "currency": "EUR"
     },
@@ -86,7 +86,7 @@
       "symbol": "ISPA.DE",
       "key": "DE000A0F5UH1",
       "name": "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)",
-      "price": 40.23500061035156,
+      "price": 40.29499816894531,
       "ath": 40.39500045776367,
       "currency": "EUR"
     },
@@ -94,8 +94,8 @@
       "symbol": "SPYW.DE",
       "key": "IE00B5M1WJ87",
       "name": "SPDR S&P Euro Dividend Aristocrats UCITS ETF (Dist)",
-      "price": 31.364999771118164,
-      "ath": 31.3700008392334,
+      "price": 31.395000457763672,
+      "ath": 31.415000915527344,
       "currency": "EUR"
     },
     {
@@ -110,15 +110,15 @@
       "symbol": "TDIV.AS",
       "key": "NL0011683594",
       "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
-      "price": 55.75,
-      "ath": 55.84000015258789,
+      "price": 55.849998474121094,
+      "ath": 55.88999938964844,
       "currency": "EUR"
     },
     {
       "symbol": "VHYL.L",
       "key": "IE00B8GKDB10",
       "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF Distributing",
-      "price": 69.875,
+      "price": 70.03500366210938,
       "ath": 70.31500244140625,
       "currency": "GBP"
     },
@@ -126,7 +126,7 @@
       "symbol": "VWRD.L",
       "key": "IE00B3RBWM25",
       "name": "Vanguard FTSE All-World UCITS ETF (USD) Distributing",
-      "price": 188.27999877929688,
+      "price": 188.3300018310547,
       "ath": 190.35000610351562,
       "currency": "USD"
     },
@@ -134,7 +134,7 @@
       "symbol": "WTEQ.DE",
       "key": "IE00BZ56RN96",
       "name": "WisdomTree Global Quality Dividend Growth UCITS ETF USD",
-      "price": 36.54499816894531,
+      "price": 36.57500076293945,
       "ath": 37.084999084472656,
       "currency": "EUR"
     },
@@ -142,8 +142,8 @@
       "symbol": "BTEC.L",
       "key": "IE00BYXG2H39",
       "name": "iShares Nasdaq US Biotechnology UCITS ETF",
-      "price": 10.770000457763672,
-      "ath": 10.812000274658203,
+      "price": 10.670000076293945,
+      "ath": 10.826000213623047,
       "currency": "USD"
     },
     {
