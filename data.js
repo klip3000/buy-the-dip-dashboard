@@ -1,5 +1,5 @@
 window.dashboardData = {
-  "updatedTimeLabel": "02:26 CEST",
+  "updatedTimeLabel": "02:36 CEST",
   "updatedAtLabel": "28 Aug 2026 · last bot update",
   "assets": [
     {
