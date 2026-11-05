@@ -1,12 +1,12 @@
 {
-  "updatedTimeLabel": "16:27 CET",
-  "updatedAtLabel": "04 Nov 2026 · last bot update",
+  "updatedTimeLabel": "16:28 CET",
+  "updatedAtLabel": "05 Nov 2026 · last bot update",
   "assets": [
     {
       "symbol": "MWOW.DE",
       "key": "IE0005E8B9S4",
       "name": "Amundi Russell 1000 Growth UCITS ETF Acc",
-      "price": 526.7000122070312,
+      "price": 524.7000122070312,
       "ath": 579.7999877929688,
       "currency": "EUR"
     },
@@ -14,15 +14,15 @@
       "symbol": "EUNK.DE",
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
-      "price": 106.95999908447266,
-      "ath": 107.58000183105469,
+      "price": 107.0,
+      "ath": 107.9000015258789,
       "currency": "EUR"
     },
     {
       "symbol": "IS3N.DE",
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
-      "price": 45.24800109863281,
+      "price": 43.40999984741211,
       "ath": 51.00600051879883,
       "currency": "EUR"
     },
@@ -30,7 +30,7 @@
       "symbol": "IUSN.DE",
       "key": "IE00BF4RFH31",
       "name": "iShares MSCI World Small Cap UCITS ETF Acc",
-      "price": 9.192000389099121,
+      "price": 9.149999618530273,
       "ath": 9.362000465393066,
       "currency": "EUR"
     },
@@ -38,7 +38,7 @@
       "symbol": "DBXJ.DE",
       "key": "IE00B53QDK08",
       "name": "Xtrackers MSCI Japan UCITS ETF",
-      "price": 104.4000015258789,
+      "price": 101.83999633789062,
       "ath": 111.6050033569336,
       "currency": "EUR"
     },
@@ -46,15 +46,15 @@
       "symbol": "C001.DE",
       "key": "LU2611732046",
       "name": "Amundi DAX UCITS ETF",
-      "price": 196.89999389648438,
-      "ath": 198.0,
+      "price": 196.72000122070312,
+      "ath": 198.5399932861328,
       "currency": "EUR"
     },
     {
       "symbol": "FGQI.L",
       "key": "IE00BYXVGZ48",
       "name": "Fidelity Global Quality Income UCITS ETF INC-USD",
-      "price": 11.920000076293945,
+      "price": 11.854999542236328,
       "ath": 12.045000076293945,
       "currency": "USD"
     },
@@ -62,7 +62,7 @@
       "symbol": "H410.DE",
       "key": "IE00B5SSQT16",
       "name": "HSBC MSCI Emerging Markets UCITS ETF USD",
-      "price": 14.007499694824219,
+      "price": 13.418000221252441,
       "ath": 16.00749969482422,
       "currency": "EUR"
     },
@@ -70,7 +70,7 @@
       "symbol": "EHDL.DE",
       "key": "IE00BYYXBF44",
       "name": "Invesco FTSE EM High Dividend Low Volatility UCITS ETF",
-      "price": 25.809999465942383,
+      "price": 25.579999923706055,
       "ath": 29.274999618530273,
       "currency": "EUR"
     },
@@ -78,7 +78,7 @@
       "symbol": "EXXW.DE",
       "key": "DE000A0H0744",
       "name": "iShares Dow Jones Asia Pacific Select Dividend 50 UCITS ETF (DE)",
-      "price": 32.96500015258789,
+      "price": 33.11000061035156,
       "ath": 34.70000076293945,
       "currency": "EUR"
     },
@@ -86,23 +86,23 @@
       "symbol": "ISPA.DE",
       "key": "DE000A0F5UH1",
       "name": "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)",
-      "price": 40.65999984741211,
-      "ath": 40.73500061035156,
+      "price": 40.81999969482422,
+      "ath": 41.130001068115234,
       "currency": "EUR"
     },
     {
       "symbol": "SPYW.DE",
       "key": "IE00B5M1WJ87",
       "name": "SPDR S&P Euro Dividend Aristocrats UCITS ETF (Dist)",
-      "price": 31.524999618530273,
-      "ath": 31.600000381469727,
+      "price": 31.90999984741211,
+      "ath": 31.920000076293945,
       "currency": "EUR"
     },
     {
       "symbol": "UEFD.AS",
       "key": "LU0671493277",
       "name": "UBS MSCI EMU Small Cap UCITS ETF EUR dis",
-      "price": 148.32000732421875,
+      "price": 150.97999572753906,
       "ath": 160.0399932861328,
       "currency": "EUR"
     },
@@ -110,15 +110,15 @@
       "symbol": "TDIV.AS",
       "key": "NL0011683594",
       "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
-      "price": 56.58000183105469,
-      "ath": 56.68000030517578,
+      "price": 57.18000030517578,
+      "ath": 57.290000915527344,
       "currency": "EUR"
     },
     {
       "symbol": "VHYL.L",
       "key": "IE00B8GKDB10",
       "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF Distributing",
-      "price": 69.52999877929688,
+      "price": 69.70500183105469,
       "ath": 70.7249984741211,
       "currency": "GBP"
     },
@@ -126,7 +126,7 @@
       "symbol": "VWRD.L",
       "key": "IE00B3RBWM25",
       "name": "Vanguard FTSE All-World UCITS ETF (USD) Distributing",
-      "price": 184.63999938964844,
+      "price": 180.75,
       "ath": 190.35000610351562,
       "currency": "USD"
     },
@@ -134,23 +134,23 @@
       "symbol": "WTEQ.DE",
       "key": "IE00BZ56RN96",
       "name": "WisdomTree Global Quality Dividend Growth UCITS ETF USD",
-      "price": 37.54999923706055,
-      "ath": 37.54999923706055,
+      "price": 37.75,
+      "ath": 37.85499954223633,
       "currency": "EUR"
     },
     {
       "symbol": "BTEC.L",
       "key": "IE00BYXG2H39",
       "name": "iShares Nasdaq US Biotechnology UCITS ETF",
-      "price": 10.640000343322754,
-      "ath": 10.919249534606934,
+      "price": 10.729999542236328,
+      "ath": 10.973999977111816,
       "currency": "USD"
     },
     {
       "symbol": "LGWT.DE",
       "key": "LU1598688189",
       "name": "Amundi MSCI Europe Growth UCITS ETF",
-      "price": 217.3000030517578,
+      "price": 218.0500030517578,
       "ath": 223.0500030517578,
       "currency": "EUR"
     },
@@ -158,7 +158,7 @@
       "symbol": "0P0001L3X8.F",
       "key": "0P0001L3X8.F",
       "name": "BIT Global Leaders R - I",
-      "price": 243.88999938964844,
+      "price": 250.42999267578125,
       "ath": 329.32000732421875,
       "currency": "EUR"
     },
@@ -166,7 +166,7 @@
       "symbol": "0P0001RI0F.F",
       "key": "0P0001RI0F.F",
       "name": "BIT Global Technology Leaders R-II",
-      "price": 261.1199951171875,
+      "price": 266.8500061035156,
       "ath": 333.1400146484375,
       "currency": "EUR"
     }
