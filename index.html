@@ -169,6 +169,35 @@
       opacity: 0.72;
     }
 
+    .asset-identity {
+      min-width: 0;
+    }
+
+    .category {
+      display: inline-block;
+      margin-bottom: 7px;
+      padding: 4px 7px;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      color: var(--graphite);
+      font-size: 0.68rem;
+      font-weight: 800;
+      line-height: 1;
+      white-space: nowrap;
+    }
+
+    .category-tr-grow {
+      background: rgba(68, 255, 210, 0.24);
+    }
+
+    .category-comd-dividens {
+      background: rgba(255, 191, 160, 0.32);
+    }
+
+    .category-scal-xtragrow {
+      background: rgba(135, 246, 255, 0.32);
+    }
+
     .symbol {
       margin: 0 0 5px;
       font-size: 1.35rem;
@@ -364,6 +393,7 @@
         symbol: "0P0001L3X8.F",
         key: "0P0001L3X8.F",
         name: "BIT Global Leaders R - I",
+        category: "SCAL-XTRAGROW",
         price: 270.24,
         ath: 329.32,
         currency: "EUR"
@@ -372,6 +402,7 @@
         symbol: "0P0001RI0F.F",
         key: "0P0001RI0F.F",
         name: "BIT Global Technology Leaders R-II",
+        category: "SCAL-XTRAGROW",
         price: 275.00,
         ath: 333.14,
         currency: "EUR"
@@ -380,6 +411,7 @@
         symbol: "IS3N.DE",
         key: "IE00BKM4GZ66",
         name: "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
+        category: "TR-GROW",
         price: 43.54,
         ath: 50.69,
         currency: "EUR"
@@ -388,6 +420,7 @@
         symbol: "MWOW.DE",
         key: "IE0005E8B9S4",
         name: "Amundi Russell 1000 Growth UCITS ETF Acc",
+        category: "TR-GROW",
         price: 503.30,
         ath: 555.20,
         currency: "EUR"
@@ -396,6 +429,7 @@
         symbol: "DBXJ.DE",
         key: "IE00B53QDK08",
         name: "Xtrackers MSCI Japan UCITS ETF",
+        category: "TR-GROW",
         price: 97.87,
         ath: 106.51,
         currency: "EUR"
@@ -404,6 +438,7 @@
         symbol: "C001.DE",
         key: "LU2611732046",
         name: "Amundi DAX UCITS ETF",
+        category: "COMD-DIVIDENS",
         price: 189.02,
         ath: 195.48,
         currency: "EUR"
@@ -412,6 +447,7 @@
         symbol: "FGQI.L",
         key: "IE00BYXVGZ48",
         name: "Fidelity Global Quality Income UCITS ETF INC-USD",
+        category: "COMD-DIVIDENS",
         price: 11.53,
         ath: 11.95,
         currency: "USD"
@@ -453,11 +489,22 @@
       return "dip-low";
     }
 
+    function categoryClass(category) {
+      const classes = {
+        "TR-GROW": "category-tr-grow",
+        "COMD-DIVIDENS": "category-comd-dividens",
+        "SCAL-XTRAGROW": "category-scal-xtragrow"
+      };
+      return classes[category] || "";
+    }
+
     function rowTemplate(asset) {
+      const category = asset.category || "UNASSIGNED";
       if (asset.error) {
         return `
           <article class="asset-row unavailable">
-            <div>
+            <div class="asset-identity">
+              <span class="category ${categoryClass(category)}">${category}</span>
               <p class="symbol">${asset.symbol}</p>
               <span class="state-key">${asset.key}</span>
             </div>
@@ -486,7 +533,8 @@
 
       return `
         <article class="asset-row">
-          <div>
+          <div class="asset-identity">
+            <span class="category ${categoryClass(category)}">${category}</span>
             <p class="symbol">${asset.symbol}</p>
             <span class="state-key">${asset.key}</span>
           </div>
@@ -512,7 +560,7 @@
     function filteredAssets() {
       const query = searchInput.value.trim().toLowerCase();
       const filtered = sampleAssets.filter((asset) => {
-        return `${asset.symbol} ${asset.name} ${asset.key}`.toLowerCase().includes(query);
+        return `${asset.category || ""} ${asset.symbol} ${asset.name} ${asset.key}`.toLowerCase().includes(query);
       });
 
       return filtered.sort((a, b) => {
