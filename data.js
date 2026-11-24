@@ -1,12 +1,12 @@
 window.dashboardData = {
-  "updatedTimeLabel": "14:37 CET",
+  "updatedTimeLabel": "15:07 CET",
   "updatedAtLabel": "24 Nov 2026 · last bot update",
   "assets": [
     {
       "symbol": "MWOW.DE",
       "key": "IE0005E8B9S4",
       "name": "Amundi Russell 1000 Growth UCITS ETF Acc",
-      "price": 495.79998779296875,
+      "price": 495.8500061035156,
       "ath": 579.7999877929688,
       "currency": "EUR"
     },
@@ -14,7 +14,7 @@ window.dashboardData = {
       "symbol": "EUNK.DE",
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
-      "price": 103.22000122070312,
+      "price": 103.31999969482422,
       "ath": 108.68000030517578,
       "currency": "EUR"
     },
@@ -22,7 +22,7 @@ window.dashboardData = {
       "symbol": "IS3N.DE",
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
-      "price": 42.53300094604492,
+      "price": 42.60300064086914,
       "ath": 51.00600051879883,
       "currency": "EUR"
     },
@@ -38,7 +38,7 @@ window.dashboardData = {
       "symbol": "DBXJ.DE",
       "key": "IE00B53QDK08",
       "name": "Xtrackers MSCI Japan UCITS ETF",
-      "price": 99.39199829101562,
+      "price": 99.45800018310547,
       "ath": 111.6050033569336,
       "currency": "EUR"
     },
@@ -54,7 +54,7 @@ window.dashboardData = {
       "symbol": "FGQI.L",
       "key": "IE00BYXVGZ48",
       "name": "Fidelity Global Quality Income UCITS ETF INC-USD",
-      "price": 11.125,
+      "price": 11.130000114440918,
       "ath": 12.045000076293945,
       "currency": "USD"
     },
@@ -70,7 +70,7 @@ window.dashboardData = {
       "symbol": "EHDL.DE",
       "key": "IE00BYYXBF44",
       "name": "Invesco FTSE EM High Dividend Low Volatility UCITS ETF",
-      "price": 25.190000534057617,
+      "price": 25.25,
       "ath": 29.274999618530273,
       "currency": "EUR"
     },
@@ -78,7 +78,7 @@ window.dashboardData = {
       "symbol": "EXXW.DE",
       "key": "DE000A0H0744",
       "name": "iShares Dow Jones Asia Pacific Select Dividend 50 UCITS ETF (DE)",
-      "price": 31.739999771118164,
+      "price": 31.790000915527344,
       "ath": 34.70000076293945,
       "currency": "EUR"
     },
@@ -86,7 +86,7 @@ window.dashboardData = {
       "symbol": "ISPA.DE",
       "key": "DE000A0F5UH1",
       "name": "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)",
-      "price": 39.11000061035156,
+      "price": 39.1349983215332,
       "ath": 41.130001068115234,
       "currency": "EUR"
     },
@@ -110,7 +110,7 @@ window.dashboardData = {
       "symbol": "TDIV.AS",
       "key": "NL0011683594",
       "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
-      "price": 55.2400016784668,
+      "price": 55.29999923706055,
       "ath": 57.83000183105469,
       "currency": "EUR"
     },
@@ -118,7 +118,7 @@ window.dashboardData = {
       "symbol": "VHYL.L",
       "key": "IE00B8GKDB10",
       "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF Distributing",
-      "price": 67.62999725341797,
+      "price": 67.70500183105469,
       "ath": 70.79499816894531,
       "currency": "GBP"
     },
@@ -126,7 +126,7 @@ window.dashboardData = {
       "symbol": "VWRD.L",
       "key": "IE00B3RBWM25",
       "name": "Vanguard FTSE All-World UCITS ETF (USD) Distributing",
-      "price": 171.61000061035156,
+      "price": 171.67999267578125,
       "ath": 190.35000610351562,
       "currency": "USD"
     },
@@ -142,7 +142,7 @@ window.dashboardData = {
       "symbol": "BTEC.L",
       "key": "IE00BYXG2H39",
       "name": "iShares Nasdaq US Biotechnology UCITS ETF",
-      "price": 10.359999656677246,
+      "price": 10.34000015258789,
       "ath": 10.979999542236328,
       "currency": "USD"
     },
