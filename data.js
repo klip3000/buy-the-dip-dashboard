@@ -1,5 +1,5 @@
 window.dashboardData = {
-  "updatedTimeLabel": "15:37 CET",
+  "updatedTimeLabel": "15:56 CET",
   "updatedAtLabel": "26 Nov 2026 · last bot update",
   "assets": [
     {
@@ -16,14 +16,15 @@ window.dashboardData = {
         "close": 494.8500061035156,
         "historyStart": "2024-10-07",
         "monthsAgo": 23
-      }
+      },
+      "dipScore": 99
     },
     {
       "symbol": "EUNK.DE",
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 103.77999877929688,
+      "price": 103.94000244140625,
       "ath": 108.68000030517578,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -32,14 +33,15 @@ window.dashboardData = {
         "close": 104.23999786376953,
         "historyStart": "2009-10-20",
         "monthsAgo": 4
-      }
+      },
+      "dipScore": 65
     },
     {
       "symbol": "IS3N.DE",
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 42.345001220703125,
+      "price": 42.369998931884766,
       "ath": 51.00600051879883,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -48,14 +50,15 @@ window.dashboardData = {
         "close": 42.75299835205078,
         "historyStart": "2014-06-11",
         "monthsAgo": 9
-      }
+      },
+      "dipScore": 94
     },
     {
       "symbol": "IUSN.DE",
       "key": "IE00BF4RFH31",
       "name": "iShares MSCI World Small Cap UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 8.984999656677246,
+      "price": 8.987000465393066,
       "ath": 9.362000465393066,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -64,14 +67,15 @@ window.dashboardData = {
         "close": 9.027000427246094,
         "historyStart": "2018-04-26",
         "monthsAgo": 5
-      }
+      },
+      "dipScore": 48
     },
     {
       "symbol": "DBXJ.DE",
       "key": "IE00B53QDK08",
       "name": "Xtrackers MSCI Japan UCITS ETF",
       "category": "TR-GROW",
-      "price": 99.9280014038086,
+      "price": 99.84200286865234,
       "ath": 111.6050033569336,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -80,7 +84,8 @@ window.dashboardData = {
         "close": 100.31500244140625,
         "historyStart": "2008-01-02",
         "monthsAgo": 5
-      }
+      },
+      "dipScore": 81
     },
     {
       "symbol": "C001.DE",
@@ -96,7 +101,8 @@ window.dashboardData = {
         "close": 187.66859436035156,
         "historyStart": "2013-01-02",
         "monthsAgo": 13
-      }
+      },
+      "dipScore": 72
     },
     {
       "symbol": "FGQI.L",
@@ -112,7 +118,8 @@ window.dashboardData = {
         "close": 11.332500457763672,
         "historyStart": "2017-03-27",
         "monthsAgo": 6
-      }
+      },
+      "dipScore": 72
     },
     {
       "symbol": "H410.DE",
@@ -128,36 +135,39 @@ window.dashboardData = {
         "close": 13.863900184631348,
         "historyStart": "2011-09-07",
         "monthsAgo": 13
-      }
+      },
+      "dipScore": 94
     },
     {
       "symbol": "EHDL.DE",
       "key": "IE00BYYXBF44",
       "name": "Invesco FTSE EM High Dividend Low Volatility UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 25.440000534057617,
+      "price": 25.670000076293945,
       "ath": 29.274999618530273,
       "currency": "EUR",
       "firstPriceLevel": {
         "status": "found",
-        "date": "2016-08-08",
-        "close": 25.59000015258789,
+        "date": "2016-08-09",
+        "close": 25.729999542236328,
         "historyStart": "2016-06-20",
         "monthsAgo": 123
-      }
+      },
+      "dipScore": 63
     },
     {
       "symbol": "EXXW.DE",
       "key": "DE000A0H0744",
       "name": "iShares Dow Jones Asia Pacific Select Dividend 50 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 31.985000610351562,
+      "price": 31.934999465942383,
       "ath": 34.70000076293945,
       "currency": "EUR",
       "firstPriceLevel": {
         "status": "at_history_start",
         "historyStart": "2008-01-02"
-      }
+      },
+      "dipScore": 60
     },
     {
       "symbol": "ISPA.DE",
@@ -173,14 +183,15 @@ window.dashboardData = {
         "close": 39.47999954223633,
         "historyStart": "2009-09-25",
         "monthsAgo": 3
-      }
+      },
+      "dipScore": 62
     },
     {
       "symbol": "SPYW.DE",
       "key": "IE00B5M1WJ87",
       "name": "SPDR S&P Euro Dividend Aristocrats UCITS ETF (Dist)",
       "category": "COMD-DIVIDENS",
-      "price": 30.864999771118164,
+      "price": 30.895000457763672,
       "ath": 31.920000076293945,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -189,7 +200,8 @@ window.dashboardData = {
         "close": 30.969999313354492,
         "historyStart": "2012-02-29",
         "monthsAgo": 3
-      }
+      },
+      "dipScore": 56
     },
     {
       "symbol": "UEFD.AS",
@@ -205,14 +217,15 @@ window.dashboardData = {
         "close": 144.13999938964844,
         "historyStart": "2016-01-27",
         "monthsAgo": 10
-      }
+      },
+      "dipScore": 69
     },
     {
       "symbol": "TDIV.AS",
       "key": "NL0011683594",
       "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 55.91999816894531,
+      "price": 55.970001220703125,
       "ath": 57.83000183105469,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -221,14 +234,15 @@ window.dashboardData = {
         "close": 55.970001220703125,
         "historyStart": "2016-05-23",
         "monthsAgo": 0
-      }
+      },
+      "dipScore": 66
     },
     {
       "symbol": "VHYL.L",
       "key": "IE00B8GKDB10",
       "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 68.55999755859375,
+      "price": 68.63500213623047,
       "ath": 70.79499816894531,
       "currency": "GBP",
       "firstPriceLevel": {
@@ -237,7 +251,8 @@ window.dashboardData = {
         "close": 68.84500122070312,
         "historyStart": "2013-05-21",
         "monthsAgo": 5
-      }
+      },
+      "dipScore": 64
     },
     {
       "symbol": "VWRD.L",
@@ -253,7 +268,8 @@ window.dashboardData = {
         "close": 173.8300018310547,
         "historyStart": "2012-05-22",
         "monthsAgo": 9
-      }
+      },
+      "dipScore": 80
     },
     {
       "symbol": "WTEQ.DE",
@@ -269,7 +285,8 @@ window.dashboardData = {
         "close": 36.92499923706055,
         "historyStart": "2022-04-29",
         "monthsAgo": 3
-      }
+      },
+      "dipScore": 63
     },
     {
       "symbol": "BTEC.L",
@@ -285,7 +302,8 @@ window.dashboardData = {
         "close": 10.795000076293945,
         "historyStart": "2017-10-19",
         "monthsAgo": 3
-      }
+      },
+      "dipScore": 8
     },
     {
       "symbol": "LGWT.DE",
@@ -301,7 +319,8 @@ window.dashboardData = {
         "close": 208.8000030517578,
         "historyStart": "2024-04-25",
         "monthsAgo": 10
-      }
+      },
+      "dipScore": 90
     },
     {
       "symbol": "0P0001L3X8.F",
@@ -317,7 +336,8 @@ window.dashboardData = {
         "close": 213.4499969482422,
         "historyStart": "2020-11-02",
         "monthsAgo": 15
-      }
+      },
+      "dipScore": 81
     },
     {
       "symbol": "0P0001RI0F.F",
@@ -333,7 +353,8 @@ window.dashboardData = {
         "close": 242.64999389648438,
         "historyStart": "2023-08-15",
         "monthsAgo": 14
-      }
+      },
+      "dipScore": 98
     }
   ]
 };
