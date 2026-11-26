@@ -1,5 +1,5 @@
 {
-  "updatedTimeLabel": "12:07 CET",
+  "updatedTimeLabel": "12:37 CET",
   "updatedAtLabel": "26 Nov 2026 · last bot update",
   "assets": [
     {
@@ -16,7 +16,7 @@
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 103.76000213623047,
+      "price": 103.87999725341797,
       "ath": 108.68000030517578,
       "currency": "EUR"
     },
@@ -25,7 +25,7 @@
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 42.23899841308594,
+      "price": 42.374000549316406,
       "ath": 51.00600051879883,
       "currency": "EUR"
     },
@@ -34,7 +34,7 @@
       "key": "IE00BF4RFH31",
       "name": "iShares MSCI World Small Cap UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 8.979999542236328,
+      "price": 8.996999740600586,
       "ath": 9.362000465393066,
       "currency": "EUR"
     },
@@ -43,7 +43,7 @@
       "key": "IE00B53QDK08",
       "name": "Xtrackers MSCI Japan UCITS ETF",
       "category": "TR-GROW",
-      "price": 99.72799682617188,
+      "price": 99.93399810791016,
       "ath": 111.6050033569336,
       "currency": "EUR"
     },
@@ -61,7 +61,7 @@
       "key": "IE00BYXVGZ48",
       "name": "Fidelity Global Quality Income UCITS ETF INC-USD",
       "category": "COMD-DIVIDENS",
-      "price": 11.279999732971191,
+      "price": 11.300000190734863,
       "ath": 12.045000076293945,
       "currency": "USD"
     },
@@ -70,7 +70,7 @@
       "key": "IE00B5SSQT16",
       "name": "HSBC MSCI Emerging Markets UCITS ETF USD",
       "category": "COMD-DIVIDENS",
-      "price": 13.007499694824219,
+      "price": 13.027000427246094,
       "ath": 16.00749969482422,
       "currency": "EUR"
     },
@@ -88,7 +88,7 @@
       "key": "DE000A0H0744",
       "name": "iShares Dow Jones Asia Pacific Select Dividend 50 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 31.93000030517578,
+      "price": 31.969999313354492,
       "ath": 34.70000076293945,
       "currency": "EUR"
     },
@@ -97,7 +97,7 @@
       "key": "DE000A0F5UH1",
       "name": "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 39.44499969482422,
+      "price": 39.4900016784668,
       "ath": 41.130001068115234,
       "currency": "EUR"
     },
@@ -106,7 +106,7 @@
       "key": "IE00B5M1WJ87",
       "name": "SPDR S&P Euro Dividend Aristocrats UCITS ETF (Dist)",
       "category": "COMD-DIVIDENS",
-      "price": 30.850000381469727,
+      "price": 30.84000015258789,
       "ath": 31.920000076293945,
       "currency": "EUR"
     },
@@ -124,7 +124,7 @@
       "key": "NL0011683594",
       "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 55.95000076293945,
+      "price": 55.970001220703125,
       "ath": 57.83000183105469,
       "currency": "EUR"
     },
@@ -133,7 +133,7 @@
       "key": "IE00B8GKDB10",
       "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 68.38839721679688,
+      "price": 68.48500061035156,
       "ath": 70.79499816894531,
       "currency": "GBP"
     },
@@ -160,7 +160,7 @@
       "key": "IE00BYXG2H39",
       "name": "iShares Nasdaq US Biotechnology UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 10.79800033569336,
+      "price": 10.789999961853027,
       "ath": 10.979999542236328,
       "currency": "USD"
     },
