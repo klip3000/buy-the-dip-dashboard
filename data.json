@@ -1,5 +1,5 @@
 {
-  "updatedTimeLabel": "13:35 CET",
+  "updatedTimeLabel": "13:37 CET",
   "updatedAtLabel": "26 Nov 2026 · last bot update",
   "assets": [
     {
@@ -22,7 +22,7 @@
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 103.80000305175781,
+      "price": 103.76000213623047,
       "ath": 108.68000030517578,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -37,7 +37,7 @@
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 42.448001861572266,
+      "price": 42.4630012512207,
       "ath": 51.00600051879883,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -112,7 +112,7 @@
       "key": "IE00B5SSQT16",
       "name": "HSBC MSCI Emerging Markets UCITS ETF USD",
       "category": "COMD-DIVIDENS",
-      "price": 13.045999526977539,
+      "price": 13.052000045776367,
       "ath": 16.00749969482422,
       "currency": "EUR",
       "firstPriceLevel": {
