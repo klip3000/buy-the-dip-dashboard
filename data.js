@@ -1,5 +1,5 @@
 window.dashboardData = {
-  "updatedTimeLabel": "16:07 CET",
+  "updatedTimeLabel": "16:37 CET",
   "updatedAtLabel": "26 Nov 2026 · last bot update",
   "assets": [
     {
@@ -24,7 +24,7 @@ window.dashboardData = {
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 104.0199966430664,
+      "price": 104.08000183105469,
       "ath": 108.68000030517578,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -41,7 +41,7 @@ window.dashboardData = {
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 42.3650016784668,
+      "price": 42.39500045776367,
       "ath": 51.00600051879883,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -58,7 +58,7 @@ window.dashboardData = {
       "key": "IE00BF4RFH31",
       "name": "iShares MSCI World Small Cap UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 8.996000289916992,
+      "price": 9.005999565124512,
       "ath": 9.362000465393066,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -160,21 +160,21 @@ window.dashboardData = {
       "key": "DE000A0H0744",
       "name": "iShares Dow Jones Asia Pacific Select Dividend 50 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 31.934999465942383,
+      "price": 31.975000381469727,
       "ath": 34.70000076293945,
       "currency": "EUR",
       "firstPriceLevel": {
         "status": "at_history_start",
         "historyStart": "2008-01-02"
       },
-      "dipScore": 60
+      "dipScore": 59
     },
     {
       "symbol": "ISPA.DE",
       "key": "DE000A0F5UH1",
       "name": "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 39.52000045776367,
+      "price": 39.53499984741211,
       "ath": 41.130001068115234,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -184,14 +184,14 @@ window.dashboardData = {
         "historyStart": "2009-09-25",
         "monthsAgo": 3
       },
-      "dipScore": 61
+      "dipScore": 60
     },
     {
       "symbol": "SPYW.DE",
       "key": "IE00B5M1WJ87",
       "name": "SPDR S&P Euro Dividend Aristocrats UCITS ETF (Dist)",
       "category": "COMD-DIVIDENS",
-      "price": 30.895000457763672,
+      "price": 30.959999084472656,
       "ath": 31.920000076293945,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -201,7 +201,7 @@ window.dashboardData = {
         "historyStart": "2012-02-29",
         "monthsAgo": 3
       },
-      "dipScore": 56
+      "dipScore": 54
     },
     {
       "symbol": "UEFD.AS",
@@ -242,7 +242,7 @@ window.dashboardData = {
       "key": "IE00B8GKDB10",
       "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 68.67500305175781,
+      "price": 68.69999694824219,
       "ath": 70.79499816894531,
       "currency": "GBP",
       "firstPriceLevel": {
@@ -252,14 +252,14 @@ window.dashboardData = {
         "historyStart": "2013-05-21",
         "monthsAgo": 5
       },
-      "dipScore": 64
+      "dipScore": 63
     },
     {
       "symbol": "VWRD.L",
       "key": "IE00B3RBWM25",
       "name": "Vanguard FTSE All-World UCITS ETF (USD) Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 173.3300018310547,
+      "price": 173.4152069091797,
       "ath": 190.35000610351562,
       "currency": "USD",
       "firstPriceLevel": {
@@ -276,34 +276,34 @@ window.dashboardData = {
       "key": "IE00BZ56RN96",
       "name": "WisdomTree Global Quality Dividend Growth UCITS ETF USD",
       "category": "COMD-DIVIDENS",
-      "price": 36.8650016784668,
+      "price": 36.93000030517578,
       "ath": 37.98500061035156,
       "currency": "EUR",
       "firstPriceLevel": {
         "status": "found",
-        "date": "2026-08-07",
-        "close": 36.92499923706055,
+        "date": "2026-08-10",
+        "close": 36.95000076293945,
         "historyStart": "2022-04-29",
         "monthsAgo": 3
       },
-      "dipScore": 63
+      "dipScore": 60
     },
     {
       "symbol": "BTEC.L",
       "key": "IE00BYXG2H39",
       "name": "iShares Nasdaq US Biotechnology UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 10.784799575805664,
+      "price": 10.8100004196167,
       "ath": 10.979999542236328,
       "currency": "USD",
       "firstPriceLevel": {
         "status": "found",
-        "date": "2026-08-25",
-        "close": 10.795000076293945,
+        "date": "2026-11-09",
+        "close": 10.8100004196167,
         "historyStart": "2017-10-19",
-        "monthsAgo": 3
+        "monthsAgo": 0
       },
-      "dipScore": 8
+      "dipScore": 0
     },
     {
       "symbol": "LGWT.DE",
