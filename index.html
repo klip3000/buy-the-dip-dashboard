@@ -245,6 +245,16 @@
       font-variant-numeric: tabular-nums;
     }
 
+    .history-line {
+      margin: 0;
+      padding-top: 7px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.4;
+      overflow-wrap: anywhere;
+    }
+
     .bar {
       height: 10px;
       overflow: hidden;
@@ -318,7 +328,7 @@
       background: rgba(247, 253, 255, 0.72);
     }
 
-    @media (max-width: 860px) {
+    @media (max-width: 920px) {
       .masthead,
       .toolbar,
       .summary,
@@ -534,6 +544,30 @@
       return `<p class="name">${name}</p>`;
     }
 
+    const historyDateFormat = new Intl.DateTimeFormat("en-GB", {
+      day: "numeric", month: "short", year: "numeric", timeZone: "UTC"
+    });
+
+    function priceHistoryTemplate(asset) {
+      const level = asset.firstPriceLevel;
+      if (!level) return "";
+      let label;
+      switch (level.status) {
+        case "found":
+          label = `First recorded close at or above this level: ${historyDateFormat.format(new Date(level.date))} (${formatMoney(level.close, asset.currency)})`;
+          break;
+        case "at_history_start":
+          label = `Already at or above this level when available history starts (${historyDateFormat.format(new Date(level.historyStart))})`;
+          break;
+        case "not_reached":
+          label = "No earlier close at or above this level in available history";
+          break;
+        default:
+          label = "Price history unavailable";
+      }
+      return `<p class="history-line">${label}</p>`;
+    }
+
     function rowTemplate(asset) {
       const category = asset.category || "UNASSIGNED";
       if (asset.error) {
@@ -587,6 +621,7 @@
               <span>${percentageOfAth.toFixed(2)}% of ATH</span>
               <span>${drawdown.toFixed(2)}% below ATH</span>
             </div>
+            ${priceHistoryTemplate(asset)}
           </div>
           <div class="drawdown ${severity}">${drawdown.toFixed(2)}%</div>
         </article>

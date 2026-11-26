@@ -1,5 +1,5 @@
 window.dashboardData = {
-  "updatedTimeLabel": "13:07 CET",
+  "updatedTimeLabel": "13:35 CET",
   "updatedAtLabel": "26 Nov 2026 · last bot update",
   "assets": [
     {
@@ -7,108 +7,178 @@ window.dashboardData = {
       "key": "IE0005E8B9S4",
       "name": "Amundi Russell 1000 Growth UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 491.54998779296875,
+      "price": 494.3999938964844,
       "ath": 579.7999877929688,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2024-12-11",
+        "close": 494.8500061035156,
+        "historyStart": "2024-10-07"
+      }
     },
     {
       "symbol": "EUNK.DE",
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 103.83999633789062,
+      "price": 103.80000305175781,
       "ath": 108.68000030517578,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-06-30",
+        "close": 104.23999786376953,
+        "historyStart": "2009-10-20"
+      }
     },
     {
       "symbol": "IS3N.DE",
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 42.380001068115234,
+      "price": 42.448001861572266,
       "ath": 51.00600051879883,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-02-18",
+        "close": 42.75299835205078,
+        "historyStart": "2014-06-11"
+      }
     },
     {
       "symbol": "IUSN.DE",
       "key": "IE00BF4RFH31",
       "name": "iShares MSCI World Small Cap UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 8.994000434875488,
+      "price": 8.996999740600586,
       "ath": 9.362000465393066,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-06-12",
+        "close": 9.027000427246094,
+        "historyStart": "2018-04-26"
+      }
     },
     {
       "symbol": "DBXJ.DE",
       "key": "IE00B53QDK08",
       "name": "Xtrackers MSCI Japan UCITS ETF",
       "category": "TR-GROW",
-      "price": 100.03500366210938,
+      "price": 100.12000274658203,
       "ath": 111.6050033569336,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-06-02",
+        "close": 100.31500244140625,
+        "historyStart": "2008-01-02"
+      }
     },
     {
       "symbol": "C001.DE",
       "key": "LU2611732046",
       "name": "Amundi DAX UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 187.36000061035156,
+      "price": 187.1999969482422,
       "ath": 200.89999389648438,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2025-07-09",
+        "close": 187.33779907226562,
+        "historyStart": "2013-01-02"
+      }
     },
     {
       "symbol": "FGQI.L",
       "key": "IE00BYXVGZ48",
       "name": "Fidelity Global Quality Income UCITS ETF INC-USD",
       "category": "COMD-DIVIDENS",
-      "price": 11.305000305175781,
+      "price": 11.28499984741211,
       "ath": 12.045000076293945,
-      "currency": "USD"
+      "currency": "USD",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-05-14",
+        "close": 11.332500457763672,
+        "historyStart": "2017-03-27"
+      }
     },
     {
       "symbol": "H410.DE",
       "key": "IE00B5SSQT16",
       "name": "HSBC MSCI Emerging Markets UCITS ETF USD",
       "category": "COMD-DIVIDENS",
-      "price": 13.029999732971191,
+      "price": 13.045999526977539,
       "ath": 16.00749969482422,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2025-10-24",
+        "close": 13.863900184631348,
+        "historyStart": "2011-09-07"
+      }
     },
     {
       "symbol": "EHDL.DE",
       "key": "IE00BYYXBF44",
       "name": "Invesco FTSE EM High Dividend Low Volatility UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 25.450000762939453,
+      "price": 25.440000534057617,
       "ath": 29.274999618530273,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2016-08-08",
+        "close": 25.59000015258789,
+        "historyStart": "2016-06-20"
+      }
     },
     {
       "symbol": "EXXW.DE",
       "key": "DE000A0H0744",
       "name": "iShares Dow Jones Asia Pacific Select Dividend 50 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 31.96500015258789,
+      "price": 31.850000381469727,
       "ath": 34.70000076293945,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "at_history_start",
+        "historyStart": "2008-01-02"
+      }
     },
     {
       "symbol": "ISPA.DE",
       "key": "DE000A0F5UH1",
       "name": "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 39.47999954223633,
+      "price": 39.51499938964844,
       "ath": 41.130001068115234,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-07-28",
+        "close": 39.89500045776367,
+        "historyStart": "2009-09-25"
+      }
     },
     {
       "symbol": "SPYW.DE",
       "key": "IE00B5M1WJ87",
       "name": "SPDR S&P Euro Dividend Aristocrats UCITS ETF (Dist)",
       "category": "COMD-DIVIDENS",
-      "price": 30.84000015258789,
+      "price": 30.860000610351562,
       "ath": 31.920000076293945,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-08-03",
+        "close": 30.969999313354492,
+        "historyStart": "2012-02-29"
+      }
     },
     {
       "symbol": "UEFD.AS",
@@ -117,61 +187,101 @@ window.dashboardData = {
       "category": "COMD-DIVIDENS",
       "price": 144.02000427246094,
       "ath": 160.0399932861328,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-01-05",
+        "close": 144.13999938964844,
+        "historyStart": "2016-01-27"
+      }
     },
     {
       "symbol": "TDIV.AS",
       "key": "NL0011683594",
       "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 55.95000076293945,
+      "price": 55.90999984741211,
       "ath": 57.83000183105469,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-10-30",
+        "close": 55.970001220703125,
+        "historyStart": "2016-05-23"
+      }
     },
     {
       "symbol": "VHYL.L",
       "key": "IE00B8GKDB10",
       "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 68.53500366210938,
+      "price": 68.57499694824219,
       "ath": 70.79499816894531,
-      "currency": "GBP"
+      "currency": "GBP",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-06-17",
+        "close": 68.84500122070312,
+        "historyStart": "2013-05-21"
+      }
     },
     {
       "symbol": "VWRD.L",
       "key": "IE00B3RBWM25",
       "name": "Vanguard FTSE All-World UCITS ETF (USD) Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 173.0500030517578,
+      "price": 173.3000030517578,
       "ath": 190.35000610351562,
-      "currency": "USD"
+      "currency": "USD",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-02-25",
+        "close": 173.8300018310547,
+        "historyStart": "2012-05-22"
+      }
     },
     {
       "symbol": "WTEQ.DE",
       "key": "IE00BZ56RN96",
       "name": "WisdomTree Global Quality Dividend Growth UCITS ETF USD",
       "category": "COMD-DIVIDENS",
-      "price": 36.88999938964844,
+      "price": 36.845001220703125,
       "ath": 37.98500061035156,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-08-06",
+        "close": 36.849998474121094,
+        "historyStart": "2022-04-29"
+      }
     },
     {
       "symbol": "BTEC.L",
       "key": "IE00BYXG2H39",
       "name": "iShares Nasdaq US Biotechnology UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 10.800000190734863,
+      "price": 10.812000274658203,
       "ath": 10.979999542236328,
-      "currency": "USD"
+      "currency": "USD",
+      "firstPriceLevel": {
+        "status": "not_reached",
+        "historyStart": "2017-10-19"
+      }
     },
     {
       "symbol": "LGWT.DE",
       "key": "LU1598688189",
       "name": "Amundi MSCI Europe Growth UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 208.35000610351562,
+      "price": 208.5,
       "ath": 223.0500030517578,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2026-01-09",
+        "close": 208.8000030517578,
+        "historyStart": "2024-04-25"
+      }
     },
     {
       "symbol": "0P0001L3X8.F",
@@ -180,7 +290,13 @@ window.dashboardData = {
       "category": "SCAL-XTRAGROW",
       "price": 212.42999267578125,
       "ath": 329.32000732421875,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2025-08-08",
+        "close": 213.4499969482422,
+        "historyStart": "2020-11-02"
+      }
     },
     {
       "symbol": "0P0001RI0F.F",
@@ -189,7 +305,13 @@ window.dashboardData = {
       "category": "SCAL-XTRAGROW",
       "price": 239.0500030517578,
       "ath": 333.1400146484375,
-      "currency": "EUR"
+      "currency": "EUR",
+      "firstPriceLevel": {
+        "status": "found",
+        "date": "2025-09-19",
+        "close": 242.64999389648438,
+        "historyStart": "2023-08-15"
+      }
     }
   ]
 };
