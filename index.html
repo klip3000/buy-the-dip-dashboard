@@ -642,14 +642,19 @@
       return `<div class="history-band"><div>${detail}</div>${age}</div>`;
     }
 
-    function dipScoreTemplate(asset) {
+    const tradingDayFormat = new Intl.NumberFormat("en-GB");
+
+    function dipRarityTemplate(asset) {
       const score = asset.dipScore;
       const available = Number.isInteger(score) && score >= 0 && score <= 100;
-      const detail = available
-        ? "The score is the share of comparable days, over up to seven years, with a shallower dip from the 52-week closing high after adjusting for distributions."
-        : "A score needs at least 250 comparable trading days of distribution-adjusted history.";
+      const days = asset.dipScoreDays;
+      let detail = available ? "" : "Not enough historical data.";
+      if (available && Number.isInteger(days?.asDeep) && Number.isInteger(days?.total) && days.total > 0) {
+        const prefix = days.asDeep / days.total <= 0.1 ? "Only " : "";
+        detail = `${prefix}${tradingDayFormat.format(days.asDeep)} of ${tradingDayFormat.format(days.total)} past trading days had a dip this deep or deeper.`;
+      }
       return `<div class="score-band">
-        <div><strong class="score-label">Dip Score</strong>${detail}</div>
+        <div><strong class="score-label">Dip Rarity</strong>${detail}</div>
         <strong class="score-value" aria-label="${available ? `${score} out of 100` : "Score unavailable"}">${available ? `${score}<small>/100</small>` : "&ndash;"}</strong>
       </div>`;
     }
@@ -687,7 +692,7 @@
             </div>
           </div>
           ${unavailable ? "" : priceHistoryTemplate(asset)}
-          ${unavailable ? "" : dipScoreTemplate(asset)}
+          ${unavailable ? "" : dipRarityTemplate(asset)}
         </article>
       `;
     }
