@@ -1,13 +1,13 @@
 window.dashboardData = {
-  "updatedTimeLabel": "17:37 CET",
-  "updatedAtLabel": "25 Nov 2026 · last bot update",
+  "updatedTimeLabel": "09:07 CET",
+  "updatedAtLabel": "26 Nov 2026 · last bot update",
   "assets": [
     {
       "symbol": "MWOW.DE",
       "key": "IE0005E8B9S4",
       "name": "Amundi Russell 1000 Growth UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 478.0,
+      "price": 490.8500061035156,
       "ath": 579.7999877929688,
       "currency": "EUR"
     },
@@ -16,7 +16,7 @@ window.dashboardData = {
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 102.30000305175781,
+      "price": 103.18000030517578,
       "ath": 108.68000030517578,
       "currency": "EUR"
     },
@@ -25,7 +25,7 @@ window.dashboardData = {
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 40.845001220703125,
+      "price": 42.099998474121094,
       "ath": 51.00600051879883,
       "currency": "EUR"
     },
@@ -34,7 +34,7 @@ window.dashboardData = {
       "key": "IE00BF4RFH31",
       "name": "iShares MSCI World Small Cap UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 8.803000450134277,
+      "price": 8.84000015258789,
       "ath": 9.362000465393066,
       "currency": "EUR"
     },
@@ -43,7 +43,7 @@ window.dashboardData = {
       "key": "IE00B53QDK08",
       "name": "Xtrackers MSCI Japan UCITS ETF",
       "category": "TR-GROW",
-      "price": 97.88999938964844,
+      "price": 98.8280029296875,
       "ath": 111.6050033569336,
       "currency": "EUR"
     },
@@ -52,7 +52,7 @@ window.dashboardData = {
       "key": "LU2611732046",
       "name": "Amundi DAX UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 184.02000427246094,
+      "price": 186.22000122070312,
       "ath": 200.89999389648438,
       "currency": "EUR"
     },
@@ -61,7 +61,7 @@ window.dashboardData = {
       "key": "IE00BYXVGZ48",
       "name": "Fidelity Global Quality Income UCITS ETF INC-USD",
       "category": "COMD-DIVIDENS",
-      "price": 11.055000305175781,
+      "price": 11.234999656677246,
       "ath": 12.045000076293945,
       "currency": "USD"
     },
@@ -70,7 +70,7 @@ window.dashboardData = {
       "key": "IE00B5SSQT16",
       "name": "HSBC MSCI Emerging Markets UCITS ETF USD",
       "category": "COMD-DIVIDENS",
-      "price": 12.543999671936035,
+      "price": 12.959500312805176,
       "ath": 16.00749969482422,
       "currency": "EUR"
     },
@@ -88,7 +88,7 @@ window.dashboardData = {
       "key": "DE000A0H0744",
       "name": "iShares Dow Jones Asia Pacific Select Dividend 50 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 31.479999542236328,
+      "price": 31.84000015258789,
       "ath": 34.70000076293945,
       "currency": "EUR"
     },
@@ -97,7 +97,7 @@ window.dashboardData = {
       "key": "DE000A0F5UH1",
       "name": "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 39.029998779296875,
+      "price": 39.17499923706055,
       "ath": 41.130001068115234,
       "currency": "EUR"
     },
@@ -106,7 +106,7 @@ window.dashboardData = {
       "key": "IE00B5M1WJ87",
       "name": "SPDR S&P Euro Dividend Aristocrats UCITS ETF (Dist)",
       "category": "COMD-DIVIDENS",
-      "price": 30.594999313354492,
+      "price": 30.579999923706055,
       "ath": 31.920000076293945,
       "currency": "EUR"
     },
@@ -115,7 +115,7 @@ window.dashboardData = {
       "key": "LU0671493277",
       "name": "UBS MSCI EMU Small Cap UCITS ETF EUR dis",
       "category": "COMD-DIVIDENS",
-      "price": 142.7100067138672,
+      "price": 144.0500030517578,
       "ath": 160.0399932861328,
       "currency": "EUR"
     },
@@ -124,7 +124,7 @@ window.dashboardData = {
       "key": "NL0011683594",
       "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 55.41999816894531,
+      "price": 55.540000915527344,
       "ath": 57.83000183105469,
       "currency": "EUR"
     },
@@ -133,7 +133,7 @@ window.dashboardData = {
       "key": "IE00B8GKDB10",
       "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 67.5,
+      "price": 67.7750015258789,
       "ath": 70.79499816894531,
       "currency": "GBP"
     },
@@ -142,7 +142,7 @@ window.dashboardData = {
       "key": "IE00B3RBWM25",
       "name": "Vanguard FTSE All-World UCITS ETF (USD) Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 168.17999267578125,
+      "price": 171.52999877929688,
       "ath": 190.35000610351562,
       "currency": "USD"
     },
@@ -151,7 +151,7 @@ window.dashboardData = {
       "key": "IE00BZ56RN96",
       "name": "WisdomTree Global Quality Dividend Growth UCITS ETF USD",
       "category": "COMD-DIVIDENS",
-      "price": 36.16999816894531,
+      "price": 36.380001068115234,
       "ath": 37.98500061035156,
       "currency": "EUR"
     },
@@ -160,7 +160,7 @@ window.dashboardData = {
       "key": "IE00BYXG2H39",
       "name": "iShares Nasdaq US Biotechnology UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 10.574999809265137,
+      "price": 10.694999694824219,
       "ath": 10.979999542236328,
       "currency": "USD"
     },
@@ -169,7 +169,7 @@ window.dashboardData = {
       "key": "LU1598688189",
       "name": "Amundi MSCI Europe Growth UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 207.14999389648438,
+      "price": 207.9499969482422,
       "ath": 223.0500030517578,
       "currency": "EUR"
     },
@@ -178,7 +178,7 @@ window.dashboardData = {
       "key": "0P0001L3X8.F",
       "name": "BIT Global Leaders R - I",
       "category": "SCAL-XTRAGROW",
-      "price": 222.77999877929688,
+      "price": 212.42999267578125,
       "ath": 329.32000732421875,
       "currency": "EUR"
     },
@@ -187,7 +187,7 @@ window.dashboardData = {
       "key": "0P0001RI0F.F",
       "name": "BIT Global Technology Leaders R-II",
       "category": "SCAL-XTRAGROW",
-      "price": 246.3000030517578,
+      "price": 239.0500030517578,
       "ath": 333.1400146484375,
       "currency": "EUR"
     }
