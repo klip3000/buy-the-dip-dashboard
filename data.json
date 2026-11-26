@@ -1,5 +1,5 @@
 {
-  "updatedTimeLabel": "13:37 CET",
+  "updatedTimeLabel": "14:06 CET",
   "updatedAtLabel": "26 Nov 2026 · last bot update",
   "assets": [
     {
@@ -14,7 +14,8 @@
         "status": "found",
         "date": "2024-12-11",
         "close": 494.8500061035156,
-        "historyStart": "2024-10-07"
+        "historyStart": "2024-10-07",
+        "monthsAgo": 23
       }
     },
     {
@@ -22,14 +23,15 @@
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 103.76000213623047,
+      "price": 103.69999694824219,
       "ath": 108.68000030517578,
       "currency": "EUR",
       "firstPriceLevel": {
         "status": "found",
         "date": "2026-06-30",
         "close": 104.23999786376953,
-        "historyStart": "2009-10-20"
+        "historyStart": "2009-10-20",
+        "monthsAgo": 4
       }
     },
     {
@@ -37,14 +39,15 @@
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 42.4630012512207,
+      "price": 42.45000076293945,
       "ath": 51.00600051879883,
       "currency": "EUR",
       "firstPriceLevel": {
         "status": "found",
         "date": "2026-02-18",
         "close": 42.75299835205078,
-        "historyStart": "2014-06-11"
+        "historyStart": "2014-06-11",
+        "monthsAgo": 9
       }
     },
     {
@@ -59,7 +62,8 @@
         "status": "found",
         "date": "2026-06-12",
         "close": 9.027000427246094,
-        "historyStart": "2018-04-26"
+        "historyStart": "2018-04-26",
+        "monthsAgo": 5
       }
     },
     {
@@ -74,7 +78,8 @@
         "status": "found",
         "date": "2026-06-02",
         "close": 100.31500244140625,
-        "historyStart": "2008-01-02"
+        "historyStart": "2008-01-02",
+        "monthsAgo": 5
       }
     },
     {
@@ -89,7 +94,8 @@
         "status": "found",
         "date": "2025-07-09",
         "close": 187.33779907226562,
-        "historyStart": "2013-01-02"
+        "historyStart": "2013-01-02",
+        "monthsAgo": 16
       }
     },
     {
@@ -97,14 +103,15 @@
       "key": "IE00BYXVGZ48",
       "name": "Fidelity Global Quality Income UCITS ETF INC-USD",
       "category": "COMD-DIVIDENS",
-      "price": 11.28499984741211,
+      "price": 11.3100004196167,
       "ath": 12.045000076293945,
       "currency": "USD",
       "firstPriceLevel": {
         "status": "found",
         "date": "2026-05-14",
         "close": 11.332500457763672,
-        "historyStart": "2017-03-27"
+        "historyStart": "2017-03-27",
+        "monthsAgo": 6
       }
     },
     {
@@ -112,14 +119,15 @@
       "key": "IE00B5SSQT16",
       "name": "HSBC MSCI Emerging Markets UCITS ETF USD",
       "category": "COMD-DIVIDENS",
-      "price": 13.052000045776367,
+      "price": 13.044500350952148,
       "ath": 16.00749969482422,
       "currency": "EUR",
       "firstPriceLevel": {
         "status": "found",
         "date": "2025-10-24",
         "close": 13.863900184631348,
-        "historyStart": "2011-09-07"
+        "historyStart": "2011-09-07",
+        "monthsAgo": 13
       }
     },
     {
@@ -134,7 +142,8 @@
         "status": "found",
         "date": "2016-08-08",
         "close": 25.59000015258789,
-        "historyStart": "2016-06-20"
+        "historyStart": "2016-06-20",
+        "monthsAgo": 123
       }
     },
     {
@@ -142,7 +151,7 @@
       "key": "DE000A0H0744",
       "name": "iShares Dow Jones Asia Pacific Select Dividend 50 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 31.850000381469727,
+      "price": 31.940000534057617,
       "ath": 34.70000076293945,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -155,14 +164,15 @@
       "key": "DE000A0F5UH1",
       "name": "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 39.51499938964844,
+      "price": 39.470001220703125,
       "ath": 41.130001068115234,
       "currency": "EUR",
       "firstPriceLevel": {
         "status": "found",
-        "date": "2026-07-28",
-        "close": 39.89500045776367,
-        "historyStart": "2009-09-25"
+        "date": "2026-07-27",
+        "close": 39.47999954223633,
+        "historyStart": "2009-09-25",
+        "monthsAgo": 3
       }
     },
     {
@@ -170,14 +180,15 @@
       "key": "IE00B5M1WJ87",
       "name": "SPDR S&P Euro Dividend Aristocrats UCITS ETF (Dist)",
       "category": "COMD-DIVIDENS",
-      "price": 30.860000610351562,
+      "price": 30.81999969482422,
       "ath": 31.920000076293945,
       "currency": "EUR",
       "firstPriceLevel": {
         "status": "found",
-        "date": "2026-08-03",
-        "close": 30.969999313354492,
-        "historyStart": "2012-02-29"
+        "date": "2026-07-31",
+        "close": 30.854999542236328,
+        "historyStart": "2012-02-29",
+        "monthsAgo": 3
       }
     },
     {
@@ -192,7 +203,8 @@
         "status": "found",
         "date": "2026-01-05",
         "close": 144.13999938964844,
-        "historyStart": "2016-01-27"
+        "historyStart": "2016-01-27",
+        "monthsAgo": 10
       }
     },
     {
@@ -200,14 +212,15 @@
       "key": "NL0011683594",
       "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 55.90999984741211,
+      "price": 55.880001068115234,
       "ath": 57.83000183105469,
       "currency": "EUR",
       "firstPriceLevel": {
         "status": "found",
         "date": "2026-10-30",
         "close": 55.970001220703125,
-        "historyStart": "2016-05-23"
+        "historyStart": "2016-05-23",
+        "monthsAgo": 0
       }
     },
     {
@@ -215,14 +228,15 @@
       "key": "IE00B8GKDB10",
       "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 68.57499694824219,
+      "price": 68.58999633789062,
       "ath": 70.79499816894531,
       "currency": "GBP",
       "firstPriceLevel": {
         "status": "found",
         "date": "2026-06-17",
         "close": 68.84500122070312,
-        "historyStart": "2013-05-21"
+        "historyStart": "2013-05-21",
+        "monthsAgo": 5
       }
     },
     {
@@ -230,14 +244,15 @@
       "key": "IE00B3RBWM25",
       "name": "Vanguard FTSE All-World UCITS ETF (USD) Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 173.3000030517578,
+      "price": 173.3300018310547,
       "ath": 190.35000610351562,
       "currency": "USD",
       "firstPriceLevel": {
         "status": "found",
         "date": "2026-02-25",
         "close": 173.8300018310547,
-        "historyStart": "2012-05-22"
+        "historyStart": "2012-05-22",
+        "monthsAgo": 9
       }
     },
     {
@@ -252,7 +267,8 @@
         "status": "found",
         "date": "2026-08-06",
         "close": 36.849998474121094,
-        "historyStart": "2022-04-29"
+        "historyStart": "2022-04-29",
+        "monthsAgo": 3
       }
     },
     {
@@ -260,7 +276,7 @@
       "key": "IE00BYXG2H39",
       "name": "iShares Nasdaq US Biotechnology UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 10.812000274658203,
+      "price": 10.817999839782715,
       "ath": 10.979999542236328,
       "currency": "USD",
       "firstPriceLevel": {
@@ -280,7 +296,8 @@
         "status": "found",
         "date": "2026-01-09",
         "close": 208.8000030517578,
-        "historyStart": "2024-04-25"
+        "historyStart": "2024-04-25",
+        "monthsAgo": 10
       }
     },
     {
@@ -295,7 +312,8 @@
         "status": "found",
         "date": "2025-08-08",
         "close": 213.4499969482422,
-        "historyStart": "2020-11-02"
+        "historyStart": "2020-11-02",
+        "monthsAgo": 15
       }
     },
     {
@@ -310,7 +328,8 @@
         "status": "found",
         "date": "2025-09-19",
         "close": 242.64999389648438,
-        "historyStart": "2023-08-15"
+        "historyStart": "2023-08-15",
+        "monthsAgo": 14
       }
     }
   ]
