@@ -1,5 +1,5 @@
 window.dashboardData = {
-  "updatedTimeLabel": "09:21 CET",
+  "updatedTimeLabel": "09:37 CET",
   "updatedAtLabel": "26 Nov 2026 · last bot update",
   "assets": [
     {
@@ -7,7 +7,7 @@ window.dashboardData = {
       "key": "IE0005E8B9S4",
       "name": "Amundi Russell 1000 Growth UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 490.8500061035156,
+      "price": 491.54998779296875,
       "ath": 579.7999877929688,
       "currency": "EUR"
     },
@@ -16,7 +16,7 @@ window.dashboardData = {
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 103.81999969482422,
+      "price": 103.73999786376953,
       "ath": 108.68000030517578,
       "currency": "EUR"
     },
@@ -25,7 +25,7 @@ window.dashboardData = {
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 42.099998474121094,
+      "price": 42.36000061035156,
       "ath": 51.00600051879883,
       "currency": "EUR"
     },
@@ -34,7 +34,7 @@ window.dashboardData = {
       "key": "IE00BF4RFH31",
       "name": "iShares MSCI World Small Cap UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 8.84000015258789,
+      "price": 8.972999572753906,
       "ath": 9.362000465393066,
       "currency": "EUR"
     },
@@ -43,7 +43,7 @@ window.dashboardData = {
       "key": "IE00B53QDK08",
       "name": "Xtrackers MSCI Japan UCITS ETF",
       "category": "TR-GROW",
-      "price": 98.8280029296875,
+      "price": 99.76599884033203,
       "ath": 111.6050033569336,
       "currency": "EUR"
     },
@@ -52,7 +52,7 @@ window.dashboardData = {
       "key": "LU2611732046",
       "name": "Amundi DAX UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 186.22000122070312,
+      "price": 187.60000610351562,
       "ath": 200.89999389648438,
       "currency": "EUR"
     },
@@ -70,7 +70,7 @@ window.dashboardData = {
       "key": "IE00B5SSQT16",
       "name": "HSBC MSCI Emerging Markets UCITS ETF USD",
       "category": "COMD-DIVIDENS",
-      "price": 12.959500312805176,
+      "price": 13.031499862670898,
       "ath": 16.00749969482422,
       "currency": "EUR"
     },
@@ -79,7 +79,7 @@ window.dashboardData = {
       "key": "IE00BYYXBF44",
       "name": "Invesco FTSE EM High Dividend Low Volatility UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 25.114999771118164,
+      "price": 25.489999771118164,
       "ath": 29.274999618530273,
       "currency": "EUR"
     },
@@ -97,7 +97,7 @@ window.dashboardData = {
       "key": "DE000A0F5UH1",
       "name": "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 39.48500061035156,
+      "price": 39.44499969482422,
       "ath": 41.130001068115234,
       "currency": "EUR"
     },
@@ -106,7 +106,7 @@ window.dashboardData = {
       "key": "IE00B5M1WJ87",
       "name": "SPDR S&P Euro Dividend Aristocrats UCITS ETF (Dist)",
       "category": "COMD-DIVIDENS",
-      "price": 30.770000457763672,
+      "price": 30.80500030517578,
       "ath": 31.920000076293945,
       "currency": "EUR"
     },
@@ -124,7 +124,7 @@ window.dashboardData = {
       "key": "NL0011683594",
       "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 55.77000045776367,
+      "price": 55.900001525878906,
       "ath": 57.83000183105469,
       "currency": "EUR"
     },
@@ -142,7 +142,7 @@ window.dashboardData = {
       "key": "IE00B3RBWM25",
       "name": "Vanguard FTSE All-World UCITS ETF (USD) Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 172.9499969482422,
+      "price": 172.7899932861328,
       "ath": 190.35000610351562,
       "currency": "USD"
     },
@@ -151,7 +151,7 @@ window.dashboardData = {
       "key": "IE00BZ56RN96",
       "name": "WisdomTree Global Quality Dividend Growth UCITS ETF USD",
       "category": "COMD-DIVIDENS",
-      "price": 36.380001068115234,
+      "price": 36.650001525878906,
       "ath": 37.98500061035156,
       "currency": "EUR"
     },
@@ -160,7 +160,7 @@ window.dashboardData = {
       "key": "IE00BYXG2H39",
       "name": "iShares Nasdaq US Biotechnology UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 10.734999656677246,
+      "price": 10.770000457763672,
       "ath": 10.979999542236328,
       "currency": "USD"
     },
@@ -169,7 +169,7 @@ window.dashboardData = {
       "key": "LU1598688189",
       "name": "Amundi MSCI Europe Growth UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 207.9499969482422,
+      "price": 208.35000610351562,
       "ath": 223.0500030517578,
       "currency": "EUR"
     },
