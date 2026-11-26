@@ -1,5 +1,5 @@
 {
-  "updatedTimeLabel": "17:01 CET",
+  "updatedTimeLabel": "17:07 CET",
   "updatedAtLabel": "26 Nov 2026 · last bot update",
   "assets": [
     {
@@ -28,7 +28,7 @@
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 104.16000366210938,
+      "price": 104.18000030517578,
       "ath": 108.68000030517578,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -40,7 +40,7 @@
       },
       "dipScore": 63,
       "dipScoreDays": {
-        "asDeep": 652,
+        "asDeep": 656,
         "total": 1778
       }
     },
@@ -49,7 +49,7 @@
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 42.40299987792969,
+      "price": 42.400001525878906,
       "ath": 51.00600051879883,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -70,7 +70,7 @@
       "key": "IE00BF4RFH31",
       "name": "iShares MSCI World Small Cap UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 9.019000053405762,
+      "price": 9.017999649047852,
       "ath": 9.362000465393066,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -82,7 +82,7 @@
       },
       "dipScore": 46,
       "dipScoreDays": {
-        "asDeep": 956,
+        "asDeep": 955,
         "total": 1779
       }
     },
@@ -91,7 +91,7 @@
       "key": "IE00B53QDK08",
       "name": "Xtrackers MSCI Japan UCITS ETF",
       "category": "TR-GROW",
-      "price": 99.98999786376953,
+      "price": 100.06999969482422,
       "ath": 111.6050033569336,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -103,7 +103,7 @@
       },
       "dipScore": 80,
       "dipScoreDays": {
-        "asDeep": 350,
+        "asDeep": 351,
         "total": 1780
       }
     },
@@ -196,7 +196,7 @@
       "key": "DE000A0H0744",
       "name": "iShares Dow Jones Asia Pacific Select Dividend 50 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 31.989999771118164,
+      "price": 31.985000610351562,
       "ath": 34.70000076293945,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -205,7 +205,7 @@
       },
       "dipScore": 59,
       "dipScoreDays": {
-        "asDeep": 736,
+        "asDeep": 735,
         "total": 1780
       }
     },
@@ -277,7 +277,7 @@
       "key": "NL0011683594",
       "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 56.040000915527344,
+      "price": 56.060001373291016,
       "ath": 57.83000183105469,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -289,7 +289,7 @@
       },
       "dipScore": 64,
       "dipScoreDays": {
-        "asDeep": 639,
+        "asDeep": 647,
         "total": 1792
       }
     },
@@ -319,7 +319,7 @@
       "key": "IE00B3RBWM25",
       "name": "Vanguard FTSE All-World UCITS ETF (USD) Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 173.5,
+      "price": 173.47999572753906,
       "ath": 190.35000610351562,
       "currency": "USD",
       "firstPriceLevel": {
@@ -331,7 +331,7 @@
       },
       "dipScore": 80,
       "dipScoreDays": {
-        "asDeep": 358,
+        "asDeep": 357,
         "total": 1767
       }
     },
