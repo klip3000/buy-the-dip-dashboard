@@ -1,5 +1,5 @@
 window.dashboardData = {
-  "updatedTimeLabel": "17:07 CET",
+  "updatedTimeLabel": "17:37 CET",
   "updatedAtLabel": "27 Nov 2026 · last bot update",
   "assets": [
     {
@@ -7,15 +7,15 @@ window.dashboardData = {
       "key": "IE0005E8B9S4",
       "name": "Amundi Russell 1000 Growth UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 501.1000061035156,
+      "price": 498.6499938964844,
       "ath": 579.7999877929688,
       "currency": "EUR",
       "firstPriceLevel": {
         "status": "found",
-        "date": "2025-09-22",
-        "close": 501.1000061035156,
+        "date": "2024-12-18",
+        "close": 499.20001220703125,
         "historyStart": "2024-10-07",
-        "monthsAgo": 14
+        "monthsAgo": 23
       }
     },
     {
@@ -23,7 +23,7 @@ window.dashboardData = {
       "key": "IE00B4K48X80",
       "name": "iShares Core MSCI Europe UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 105.05999755859375,
+      "price": 105.04000091552734,
       "ath": 108.68000030517578,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -39,7 +39,7 @@ window.dashboardData = {
       "key": "IE00BKM4GZ66",
       "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 43.367000579833984,
+      "price": 43.375,
       "ath": 51.00600051879883,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -55,7 +55,7 @@ window.dashboardData = {
       "key": "IE00BF4RFH31",
       "name": "iShares MSCI World Small Cap UCITS ETF Acc",
       "category": "TR-GROW",
-      "price": 9.100000381469727,
+      "price": 9.10099983215332,
       "ath": 9.362000465393066,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -71,7 +71,7 @@ window.dashboardData = {
       "key": "IE00B53QDK08",
       "name": "Xtrackers MSCI Japan UCITS ETF",
       "category": "TR-GROW",
-      "price": 102.0,
+      "price": 102.01499938964844,
       "ath": 111.6050033569336,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -87,7 +87,7 @@ window.dashboardData = {
       "key": "LU2611732046",
       "name": "Amundi DAX UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 189.13999938964844,
+      "price": 189.39999389648438,
       "ath": 200.89999389648438,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -103,7 +103,7 @@ window.dashboardData = {
       "key": "IE00BYXVGZ48",
       "name": "Fidelity Global Quality Income UCITS ETF INC-USD",
       "category": "COMD-DIVIDENS",
-      "price": 11.345000267028809,
+      "price": 11.34000015258789,
       "ath": 12.045000076293945,
       "currency": "USD",
       "firstPriceLevel": {
@@ -119,7 +119,7 @@ window.dashboardData = {
       "key": "IE00B5SSQT16",
       "name": "HSBC MSCI Emerging Markets UCITS ETF USD",
       "category": "COMD-DIVIDENS",
-      "price": 13.32800006866455,
+      "price": 13.339500427246094,
       "ath": 16.00749969482422,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -135,7 +135,7 @@ window.dashboardData = {
       "key": "IE00BYYXBF44",
       "name": "Invesco FTSE EM High Dividend Low Volatility UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 25.950000762939453,
+      "price": 26.05500030517578,
       "ath": 29.274999618530273,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -151,7 +151,7 @@ window.dashboardData = {
       "key": "DE000A0H0744",
       "name": "iShares Dow Jones Asia Pacific Select Dividend 50 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 32.2599983215332,
+      "price": 32.275001525878906,
       "ath": 34.70000076293945,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -164,7 +164,7 @@ window.dashboardData = {
       "key": "DE000A0F5UH1",
       "name": "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)",
       "category": "COMD-DIVIDENS",
-      "price": 39.9900016784668,
+      "price": 39.98500061035156,
       "ath": 41.130001068115234,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -180,7 +180,7 @@ window.dashboardData = {
       "key": "IE00B5M1WJ87",
       "name": "SPDR S&P Euro Dividend Aristocrats UCITS ETF (Dist)",
       "category": "COMD-DIVIDENS",
-      "price": 31.190000534057617,
+      "price": 31.184999465942383,
       "ath": 31.920000076293945,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -212,7 +212,7 @@ window.dashboardData = {
       "key": "NL0011683594",
       "name": "VanEck Morningstar Developed Markets Dividend Leaders UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 56.380001068115234,
+      "price": 56.369998931884766,
       "ath": 57.83000183105469,
       "currency": "EUR",
       "firstPriceLevel": {
@@ -228,7 +228,7 @@ window.dashboardData = {
       "key": "IE00B8GKDB10",
       "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 69.05500030517578,
+      "price": 69.11000061035156,
       "ath": 70.79499816894531,
       "currency": "GBP",
       "firstPriceLevel": {
@@ -244,7 +244,7 @@ window.dashboardData = {
       "key": "IE00B3RBWM25",
       "name": "Vanguard FTSE All-World UCITS ETF (USD) Distributing",
       "category": "COMD-DIVIDENS",
-      "price": 174.52999877929688,
+      "price": 174.60000610351562,
       "ath": 190.35000610351562,
       "currency": "USD",
       "firstPriceLevel": {
@@ -276,7 +276,7 @@ window.dashboardData = {
       "key": "IE00BYXG2H39",
       "name": "iShares Nasdaq US Biotechnology UCITS ETF",
       "category": "COMD-DIVIDENS",
-      "price": 10.755000114440918,
+      "price": 10.779999732971191,
       "ath": 10.979999542236328,
       "currency": "USD",
       "firstPriceLevel": {
